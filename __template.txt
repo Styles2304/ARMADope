@@ -2,25 +2,25 @@
 ==================================================================/
     Data                        | Metric            | Imperial
    ------------------------------------------------------------
-    Muzzle Velocity:
-    Barrel Twist:
-    Barrel Length:
-    Bore:
+    Muzzle Velocity:            |
+    Barrel Twist:               |
+    Barrel Length:              |
+    Bore:                       |
 
     (Ammo Type)
     ==============================================================
         Data                    | Metric            | Imperial
         ----------------------------------------------------------
-        Ballistic Coefficient:
-        Bullet Mass:
-        Bullet Diam:
-        Muzzle Velocities:      Base:
-                                 -15:
-                                   0:
-                                  10:
-                                  15:
-                                  25:
-                                  30:
-                                  35:
+        Ballistic Coefficient:  |
+        Bullet Mass:            |
+        Bullet Diam:            |
+        Muzzle Velocities:      | Base:
+                                |  -15:
+                                |    0:
+                                |   10:
+                                |   15:
+                                |   25:
+                                |   30:
+                                |   35:
     ==============================================================
 ==================================================================/
